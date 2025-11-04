@@ -16,7 +16,7 @@ O projeto utiliza três conjuntos principais de dados fornecidos por uma loja on
 
 O período do teste abrange várias semanas, permitindo comparar o desempenho cumulativo dos dois grupos em termos de receita, ticket médio e taxa de conversão.
 
-## 🧠 Objetivos da Análise
+## 🎯 Objetivos da Análise
 O objetivo principal deste projeto é identificar e validar oportunidades de crescimento para a loja online por meio de:
 
 1. **Priorização de hipóteses** com base em frameworks quantitativos (ICE e RICE);
@@ -24,16 +24,6 @@ O objetivo principal deste projeto é identificar e validar oportunidades de cre
 3. **Análise estatística dos resultados**, garantindo a robustez das conclusões obtidas.
 
 O estudo visa oferecer recomendações estratégicas baseadas em dados para otimização de conversão e aumento de receita.
-
-## 🛠️ Tecnologias Utilizadas
-O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
-
-- **Pandas** → manipulação e limpeza de dados  
-- **NumPy** → cálculos e análise numérica  
-- **Matplotlib** e **Seaborn** → visualização de dados e análise exploratória  
-- **SciPy** → testes estatísticos e cálculo de significância  
-- **Jupyter Notebook** → ambiente de análise e documentação  
-
 
 ## 📈 Principais Insights e Conclusões
 
@@ -50,3 +40,12 @@ O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 ### 🔹 Conclusão
 O teste A/B validou a hipótese de que a adição de um formulário de inscrição aumenta o engajamento e a receita.  
 Os resultados foram estatisticamente significativos, sugerindo manter e expandir a implementação dessa funcionalidade em todo o site.
+
+## 🛠️ Tecnologias Utilizadas
+O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
+
+- **Pandas** → manipulação e limpeza de dados  
+- **NumPy** → cálculos e análise numérica  
+- **Matplotlib** e **Seaborn** → visualização de dados e análise exploratória  
+- **SciPy** → testes estatísticos e cálculo de significância  
+- **Jupyter Notebook** → ambiente de análise e documentação  
