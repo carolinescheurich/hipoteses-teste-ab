@@ -41,7 +41,7 @@ O estudo visa oferecer recomendações estratégicas baseadas em dados para otim
 O teste A/B validou a hipótese de que a adição de um formulário de inscrição aumenta o engajamento e a receita.  
 Os resultados foram estatisticamente significativos, sugerindo manter e expandir a implementação dessa funcionalidade em todo o site.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
 O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 
 - **Pandas** → manipulação e limpeza de dados  
