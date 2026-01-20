@@ -1,5 +1,14 @@
 # 🧪 Priorização de Hipóteses, Teste A/B e Análise de Resultados - Loja Online
 
+## 🎯 Objetivos da Análise
+O objetivo principal deste projeto é identificar e validar oportunidades de crescimento para a loja online por meio de:
+
+1. **Priorização de hipóteses** com base em frameworks quantitativos (ICE e RICE);
+2. **Execução e avaliação de um teste A/B** para validar a hipótese de maior potencial;
+3. **Análise estatística dos resultados**, garantindo a robustez das conclusões obtidas.
+
+O estudo visa oferecer recomendações estratégicas baseadas em dados para otimização de conversão e aumento de receita.
+
 ## 📊 Descrição do Conjunto de Dados
 O projeto utiliza três conjuntos principais de dados fornecidos por uma loja online, contendo:
 
@@ -15,15 +24,6 @@ O projeto utiliza três conjuntos principais de dados fornecidos por uma loja on
    - Identificação de duplicidades entre grupos para evitar contaminação dos resultados.
 
 O período do teste abrange várias semanas, permitindo comparar o desempenho cumulativo dos dois grupos em termos de receita, ticket médio e taxa de conversão.
-
-## 🎯 Objetivos da Análise
-O objetivo principal deste projeto é identificar e validar oportunidades de crescimento para a loja online por meio de:
-
-1. **Priorização de hipóteses** com base em frameworks quantitativos (ICE e RICE);
-2. **Execução e avaliação de um teste A/B** para validar a hipótese de maior potencial;
-3. **Análise estatística dos resultados**, garantindo a robustez das conclusões obtidas.
-
-O estudo visa oferecer recomendações estratégicas baseadas em dados para otimização de conversão e aumento de receita.
 
 ## 📈 Principais Insights e Conclusões
 
